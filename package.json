@@ -33,5 +33,8 @@
   },
   "main": "index.js",
   "author": "bumsuejung <y011010@naver.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react-devtools": "^4.3.0"
+  }
 }
